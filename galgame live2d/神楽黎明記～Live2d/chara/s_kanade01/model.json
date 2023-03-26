@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "s_kanade_01",
+	"model": "s_kanade_01.moc",
+	"textures": [
+		"s_kanade_01.2048/texture_00.png"
+	]
+}

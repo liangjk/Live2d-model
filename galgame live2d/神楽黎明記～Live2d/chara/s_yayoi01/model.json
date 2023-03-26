@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "s_yayoi_01",
+	"model": "s_yayoi_01.moc",
+	"textures": [
+		"s_yayoi_01/texture_00.png"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "s_Hatuka_01",
+	"model": "s_Hatuka_01.moc3",
+	"textures": [
+		"s_Hatuka_01.2048/texture_00.png",
+		"s_Hatuka_01.2048/texture_01.png"
+	]
+}
